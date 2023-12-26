@@ -4,6 +4,6 @@
 - The dataset used was https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 
 # Following are the images
-![img-1](Images/img1)
-![img-2](Images/img2)
-![img-3](Images/img3)
+![img-1](Images/img1.png)
+![img-2](Images/img2.png)
+![img-3](Images/img3.png)
